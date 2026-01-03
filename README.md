@@ -25,5 +25,4 @@ The tools are implemented as a set of configuration files and scripts that inter
 Important: This project is strictly for research and educational purposes. We do not support, endorse, or bear responsibility for the use of these tools to gain an advantage in the game's online modes, which is a violation of its rules. The repository's goal is study and customization.
 
 Link to the repository with source code, releases, and documentation:
-https://github.com/conkel-gernemarnzh
-/arc-raiders-custom-tools
+https://github.com/conkel-gernemarnzh/arc-raiders-custom-tools
